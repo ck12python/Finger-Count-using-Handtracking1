@@ -1,1 +1,1 @@
-# Finger-Count-using-Handtracking1
+# Finger-Counter
